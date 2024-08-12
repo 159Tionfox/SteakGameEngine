@@ -3,7 +3,7 @@
 
 #include "Library.h"
 #include "OpenGLWin.h"
-#include "Tools.h"
+#include "Engine.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -25,6 +25,7 @@ public:
     int menuBarHeight() const { return menuBar->height(); };
 
     OpenGLWin* glwin;
+    Engine* engine;
 
 private:
     Ui::SteakGameEngine *ui;

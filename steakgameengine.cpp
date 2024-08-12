@@ -78,7 +78,10 @@ void SteakGameEngine::InitUI()
         }
         else
         {
-            Log(pte, LogLevel::SUC, "Engine Log System Init Success");
+            SQUI squi;
+            squi.plainTextEdit = pte;
+            engine = new Engine(squi);
+            engine->Log(Engine::LogLevel::SUC, "Engine Log System Init Success");
         }
         pte->setReadOnly(true);
         pte->show();
@@ -220,6 +223,7 @@ void SteakGameEngine::InitUI()
     //glwidget
     glwin = new OpenGLWin(pte);
     setCentralWidget(glwin);
+
 }
 
 void SteakGameEngine::StyleUI()
