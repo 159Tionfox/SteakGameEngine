@@ -21,12 +21,6 @@ protected:
 	virtual void paintGL();
 
 private:
-	//Shader
-	GLuint CompileShader(GLenum shaderType, const char* url);
-	GLuint CreateGPUProgram(const char* vs, const char* fs);
-	GLuint CreateGLBuffer(GLenum target, GLenum usage, GLsizeiptr size, const void* data);
-	GLuint CreateGLTexture(GLenum target, GLint internalformat, GLint format, QImage img);
-
 
 protected:
 	Camera camera;
@@ -42,15 +36,10 @@ protected:
 	bool right = false;
 
 private:
-	struct Engine::Mesh* mesh = NULL;
-
-	GLuint VBO, EBO, VAO;
-	GLuint ShaderProgram;
-	GLuint tex;
-	GLuint smp;
-	GLuint modelLocation;
-	GLuint viewlLocation;
-	GLuint projlLocation;
+	
+	
+	
+	
 
 private:
 	QPlainTextEdit* pte;
