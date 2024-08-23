@@ -8,8 +8,15 @@
 
 struct SQUI { QPlainTextEdit* plainTextEdit; };
 
-struct VertexAttri { float x; float y; float z; };
-struct VertexIndex { int posIndex; int texIndex; int norIndex; };
+struct VertexAttri {
+	float x, y, z;
+};
+
+struct VertexIndex {
+	int posIndex;
+	int texIndex;
+	int norIndex;
+};
 
 class Engine : public QOpenGLFunctions_3_3_Core {
 public:
@@ -25,7 +32,13 @@ public:
 
 	//OBJ
 	struct Vertex { float position[3]; float normal[3]; float texcoord[2]; };
-	struct Mesh { uint32_t indexCount; uint32_t* indices; uint32_t vertexCount; Vertex* vertices; uint32_t faceCont; };
+	struct Mesh {
+		uint32_t indexCount;
+		uint32_t* indices;
+		uint32_t vertexCount;
+		Vertex* vertices;
+		uint32_t faceCount;
+	};
 	Mesh* LoadObjModel(FILEPATH url, bool isDropRepeat);
 	//Shader
 	void InitializeShader(const char* vs,const char *fs);

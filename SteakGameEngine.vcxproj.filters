@@ -35,30 +35,18 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Engine Files">
-      <UniqueIdentifier>{d44bc96a-1420-4ddd-83d9-6d8a49d28d24}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Engine Files\Shader">
-      <UniqueIdentifier>{784fee7a-d37a-4d80-827e-a729e58d777d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="OpenGLWin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="steakgameengine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="OpenGLWin.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Camera.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Object.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Engine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -66,18 +54,15 @@
     <ClInclude Include="Library.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <QtMoc Include="OpenGLWin.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="Tools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
     <QtMoc Include="steakgameengine.h">
       <Filter>Header Files</Filter>
     </QtMoc>
-    <ClInclude Include="Camera.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Object.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Engine.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="debug\moc_predefs.h.cbt">
@@ -91,18 +76,5 @@
     <QtUic Include="steakgameengine.ui">
       <Filter>Form Files</Filter>
     </QtUic>
-  </ItemGroup>
-  <ItemGroup>
-    <QtMoc Include="OpenGLWin.h">
-      <Filter>Header Files</Filter>
-    </QtMoc>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Engine\Shader\NorFragmentShader.glsl">
-      <Filter>Engine Files\Shader</Filter>
-    </None>
-    <None Include="Engine\Shader\NorVertexShader.glsl">
-      <Filter>Engine Files\Shader</Filter>
-    </None>
   </ItemGroup>
 </Project>

@@ -59,111 +59,124 @@ char* Engine::LoadFileContext(FILEPATH path)
 
 Engine::Mesh* Engine::LoadObjModel(FILEPATH url, bool isDropRepeat)
 {
-	char* fileContext = LoadFileContext(url);
-	if (!fileContext)
-		return NULL;
+    char* fileContext = LoadFileContext(url);
+    if (!fileContext) {
+        Log(LogLevel::ERR, "Failed to load file context");
+        return nullptr;
+    }
 
-	std::vector<VertexAttri> positions, normals, texcoords;
-	std::vector<VertexIndex> vertices;
-	std::vector<uint32_t> indices;
-	std::stringstream strStream(fileContext);
-	delete fileContext;
+    std::vector<VertexAttri> positions, normals, texcoords;
+    std::vector<VertexIndex> vertices;
+    std::vector<uint32_t> indices;
+    std::stringstream strStream(fileContext);
+    delete[] fileContext; // Ensure fileContext is deallocated properly
 
-	std::string temp;
-	while (!strStream.eof())
-	{
-		const int MAX_SIZE = 256;
-		char lineStr[MAX_SIZE];
-		strStream.getline(lineStr, MAX_SIZE);
+    std::string lineStr;
+    while (std::getline(strStream, lineStr)) {
+        std::stringstream lineStream(lineStr);
+        char prefix;
+        lineStream >> prefix;
 
-		std::stringstream lineStream(lineStr);
-		if (lineStr[0] == 'v')
-		{
-			if (lineStr[1] == 't')
-			{
-				lineStream >> temp;
-				VertexAttri attri;
-				lineStream >> attri.x;
-				lineStream >> attri.y;
-				lineStream >> attri.z;
-				texcoords.push_back(attri);
-			}
-			else if (lineStr[1] == 'n')
-			{
-				lineStream >> temp;
-				VertexAttri attri;
-				lineStream >> attri.x;
-				lineStream >> attri.y;
-				lineStream >> attri.z;
-				normals.push_back(attri);
-			}
-			else
-			{
-				lineStream >> temp;
-				VertexAttri attri;
-				lineStream >> attri.x;
-				lineStream >> attri.y;
-				lineStream >> attri.z;
-				positions.push_back(attri);
-			}
-		}
-		else if (lineStr[0] == 'f')
-		{
-			lineStream >> temp;
-			for (int i = 0; i < 3; i++)
-			{
-				lineStream >> temp;
-				int pos1 = temp.find_first_of('/');
-				std::string vStr = temp.substr(0, pos1);
-				int pos2 = temp.find_first_of('/', pos1 + 1);
-				std::string tStr = temp.substr(pos1 + 1, pos2 - pos1 - 1);
-				std::string nStr = temp.substr(pos2 + 1, temp.length() - pos2 - 1);
+        if (prefix == 'v') {
+            std::string temp;
+            if (lineStr[1] == 't') { // Texture coordinates
+                VertexAttri attri;
+                lineStream >> temp >> attri.x >> attri.y;
+                texcoords.push_back(attri);
+            }
+            else if (lineStr[1] == 'n') { // Normals
+                VertexAttri attri;
+                lineStream >> temp >> attri.x >> attri.y >> attri.z;
+                normals.push_back(attri);
+            }
+            else { // Positions
+                VertexAttri attri;
+                lineStream >> temp >> attri.x >> attri.y >> attri.z;
+                positions.push_back(attri);
+            }
+        }
+        else if (prefix == 'f') { // Faces
+            std::string temp;
+            lineStream >> temp; // Consume the 'f'
+            for (int i = 0; i < 3; ++i) { // Assume triangles
+                lineStream >> temp;
+                size_t pos1 = temp.find_first_of('/');
+                std::string vStr = temp.substr(0, pos1);
+                size_t pos2 = temp.find_first_of('/', pos1 + 1);
+                std::string tStr = (pos1 == std::string::npos || pos1 + 1 >= pos2) ? "" : temp.substr(pos1 + 1, pos2 - pos1 - 1);
+                std::string nStr = (pos2 == std::string::npos) ? "" : temp.substr(pos2 + 1);
 
-				VertexIndex vi;
-				vi.posIndex = atoi(vStr.c_str()) - 1;
-				vi.texIndex = atoi(tStr.c_str()) - 1;
-				vi.norIndex = atoi(nStr.c_str()) - 1;
+                try {
+                    VertexIndex vi;
+                    vi.posIndex = std::stoi(vStr) - 1;
+                    vi.texIndex = (tStr.empty()) ? -1 : std::stoi(tStr) - 1;
+                    vi.norIndex = (nStr.empty()) ? -1 : std::stoi(nStr) - 1;
 
-				int index = -1;
-				if (isDropRepeat)
-				{
-					int currentVertexCount = vertices.size();
-					for (int k = 0; k < currentVertexCount; k++)
-					{
-						if (vertices[k].posIndex == vi.posIndex &&
-							vertices[k].norIndex == vi.norIndex &&
-							vertices[k].texIndex == vi.texIndex)
-						{
-							index = k;
-							break;
-						}
-					}
-				}
-				if (index == -1)
-				{
-					index = vertices.size();
-					vertices.push_back(vi);
-				}
-				indices.push_back(index);
-			}
-		}
-	}
-	Mesh* mesh = new Mesh();
-	mesh->indexCount = indices.size();
-	mesh->indices = new uint32_t[mesh->indexCount];
-	memcpy(mesh->indices, &indices[0], mesh->indexCount * sizeof(uint32_t));
+                    // Check validity of indices
+                    if (vi.posIndex < 0 || vi.posIndex >= positions.size() ||
+                        (vi.texIndex >= 0 && vi.texIndex >= texcoords.size()) ||
+                        (vi.norIndex >= 0 && vi.norIndex >= normals.size())) {
+                        Log(LogLevel::ERR, QString("Invalid indices in face data: posIndex=%1, texIndex=%2, norIndex=%3")
+                            .arg(vi.posIndex).arg(vi.texIndex).arg(vi.norIndex));
+                        continue;
+                    }
 
-	mesh->vertexCount = vertices.size();
-	mesh->vertices = new Vertex[mesh->vertexCount];
-	for (int i = 0; i < mesh->vertexCount; i++)
-	{
-		memcpy(&mesh->vertices[i].position, &positions[vertices[i].posIndex], sizeof(float) * 3);
-		memcpy(&mesh->vertices[i].normal, &normals[vertices[i].norIndex], sizeof(float) * 3);
-		memcpy(&mesh->vertices[i].texcoord, &texcoords[vertices[i].texIndex], sizeof(float) * 2);
-	}
-	mesh->faceCont = mesh->indexCount / 3;
-	return mesh;
+                    int index = -1;
+                    if (isDropRepeat) {
+                        for (size_t k = 0; k < vertices.size(); ++k) {
+                            if (vertices[k].posIndex == vi.posIndex &&
+                                vertices[k].texIndex == vi.texIndex &&
+                                vertices[k].norIndex == vi.norIndex) {
+                                index = static_cast<int>(k);
+                                break;
+                            }
+                        }
+                    }
+                    if (index == -1) {
+                        index = static_cast<int>(vertices.size());
+                        vertices.push_back(vi);
+                    }
+                    indices.push_back(index);
+                }
+                catch (const std::invalid_argument& e) {
+                    Log(LogLevel::ERR, QString("Invalid argument while parsing face data: %1").arg(e.what()));
+                }
+                catch (const std::out_of_range& e) {
+                    Log(LogLevel::ERR, QString("Out of range error while parsing face data: %1").arg(e.what()));
+                }
+            }
+        }
+    }
+
+    Mesh* mesh = new Mesh();
+    mesh->indexCount = indices.size();
+    mesh->indices = new uint32_t[mesh->indexCount];
+    std::copy(indices.begin(), indices.end(), mesh->indices);
+
+    mesh->vertexCount = vertices.size();
+    mesh->vertices = new Vertex[mesh->vertexCount];
+    for (size_t i = 0; i < mesh->vertexCount; ++i) {
+        const VertexIndex& vi = vertices[i];
+        assert(vi.posIndex >= 0 && vi.posIndex < positions.size());
+        assert(vi.norIndex == -1 || (vi.norIndex >= 0 && vi.norIndex < normals.size()));
+        assert(vi.texIndex == -1 || (vi.texIndex >= 0 && vi.texIndex < texcoords.size()));
+
+        mesh->vertices[i].position[0] = positions[vi.posIndex].x;
+        mesh->vertices[i].position[1] = positions[vi.posIndex].y;
+        mesh->vertices[i].position[2] = positions[vi.posIndex].z;
+
+        mesh->vertices[i].normal[0] = (vi.norIndex >= 0) ? normals[vi.norIndex].x : 0.0f;
+        mesh->vertices[i].normal[1] = (vi.norIndex >= 0) ? normals[vi.norIndex].y : 0.0f;
+        mesh->vertices[i].normal[2] = (vi.norIndex >= 0) ? normals[vi.norIndex].z : 0.0f;
+
+        mesh->vertices[i].texcoord[0] = (vi.texIndex >= 0) ? texcoords[vi.texIndex].x : 0.0f;
+        mesh->vertices[i].texcoord[1] = (vi.texIndex >= 0) ? texcoords[vi.texIndex].y : 0.0f;
+    }
+
+    mesh->faceCount = mesh->indexCount / 3;
+    return mesh;
 }
+
 
 void Engine::InitializeShader(const char* vs, const char* fs)
 {
@@ -260,6 +273,10 @@ void Engine::ShaderProgram(const char* modle, const char* textrue)
 	glBindVertexArray(VAO);
 
 	mesh = LoadObjModel(modle, true);
+
+	if (!mesh) {
+		Log(LogLevel::ERR, "Íø¸ñÌå¼ÓÔØÊ§°Ü£¡");
+	}
 
 	VBO = CreateGLBuffer(GL_ARRAY_BUFFER, GL_STATIC_DRAW, mesh->vertexCount * sizeof(Engine::Vertex), mesh->vertices);
 	glBindBuffer(GL_ARRAY_BUFFER, VBO);

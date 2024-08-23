@@ -31,7 +31,7 @@ void OpenGLWin::initializeGL()
 	engine->Log(Engine::LogLevel::SUC, "Initialize QOpenGL Success");
 
 	engine->InitializeShader("Engine/Shader/NorVertexShader.glsl", "Engine/Shader/NorFragmentShader.glsl");
-	engine->ShaderProgram("Engine/Model/xm177gun.obj", "Engine/Texture/a.png");
+	engine->ShaderProgram("Engine/Model/Plane.obj", "Engine/Texture/b.png");
 
 	engine->GLSetting();
 
