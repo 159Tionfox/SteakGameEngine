@@ -10,16 +10,21 @@ CONFIG += c++17
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
+    Camera.cpp \
+    Engine.cpp \
     main.cpp \
-    Tools.cpp \
-    steakgameengine.cpp \
-    OpenGLWin.cpp
+    Object.cpp \
+    OpenGLWin.cpp \
+    steakgameengine.cpp
 
 HEADERS += \
+    Camera.h \
+    Engine.h \
     Library.h \
-    Tools.h \
+    Object.h \
+    OpenGLWin.h \
     steakgameengine.h \
-    OpenGLWin.h
+    ui_steakgameengine.h
 
 FORMS += \
     steakgameengine.ui

@@ -1,16 +1,16 @@
 <FlowDocument xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" FontFamily="Segoe UI" FontSize="12">
   <FlowDocument.Tag><![CDATA[{
-  "timestamp": "2024-08-23 21:58:40",
+  "timestamp": "2024-09-01 20:06:11",
   "files": {
-    "C:\\Users\\h1855\\source\\repos\\SteakGameEngine\\SteakGameEngine.vcxproj": {
-      "before": "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",
-      "after": "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"
+    "C:\\Users\\h1855\\source\\repos\\159Tionfox\\SteakGameEngine\\SteakGameEngine.vcxproj": {
+      "before": "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",
+      "after": "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"
     },
-    "C:\\Users\\h1855\\source\\repos\\SteakGameEngine\\SteakGameEngine.vcxproj.filters": {
-      "before": "5Vddb5swFO3zpP4HlHcHAiSBQVLFCXSVKq3SNu1lUkXgJrgDm9lQZZr2P/dz5nwUpyFSaadM6obgAcuce889Pr741/nZmX+xyjPtHrggjI46va7R0YDGLCF0OepU5QI5nYvx+Rv/hrM7iEtNTqdi1EnLsnir6yJOIY9ENycxZ4Itym7Mcj2Be8hYAVzPxbwiWaKbhmF1JIym+Vcl5JecVcXmVQ6EJCuBa1c0zqoERp2Q8VyTgyC2X2jy8j9R8q2CqwRoSRYE+PiH61q26xgu6vfxBNlzN0E4HLrICWcYG6YzCLD109cbH66T2EAGqxLomrYYV8TX917rKTcRF7BJZbyIMgG+vjeyneXr2/z/DzaXQIFHJSQtBBr2gpkjbzSZYhfZ08BFGAc9FBgGtoyebQe9XluB4qLwYi9erbycxV7qJbDwWJJ5RD4chHdEvqeE+YeovIMokQ5q4RnLdfuWYyDHxTPpGcNGjhNgNDD7IQ76ZoBD3FaS1EulKKmUJM09QqUWNPZWInmBFK89/w+s4jG0qL8dTofWMOyh6XDSR7Y1HKCJMRggc2KZs2HfnJhh2Lb+yhL7ZkiLO28elV4k8vWzeoEar5iNrz/uLs1mM82mLC9kc1H95n0B9PL6M6FdWdK9lrPb1/fLcbin6DXcw/ZfDyj8j4xl4kTYeXSytEUJ0ddllAPQJaHwxwTaaLP7B1C1uyZzHvHv3bSpy/6mcUSXHVStSyVKluP1z4hCV8o/G1/B1RGyRvZb5Z+N/QBUI6tgKvdDeZ4dRYFu4rSRp2GdBObV8otsybeqlEdNdNBsj+i1w645N33KIYNIwGnCqWqoEit2BQe5yYpu2o3nZXMpPslOodf81JAKuM/wBCGbJVUMD5fTX1HxVEEbRqzI7WGsI355UsZHxmxhmGMaH+ZRkeZ6UiegplEU5hHbyvPJ9pg2/g0=",
-      "after": "5ZZRb5swEMf7vGnfAeXdgQBJYJBUMYGsUqe12qq9TJoIXII7sJltqkzTXve55yRNSEOl0k596IbggZP5++5+3J1/vz458U9XRa7dABeE0VGn1zU6GtCEpYQuR51KLpDTOR2/eeVfcHYNidTUcipGnUzK8q2uiySDIhbdgiScCbaQ3YQVego3kLMSuF6IeUXyVDcNw+ooGU3zzyQUM86qcvOqDBHJJXDtjCZ5lcKoEzFeaMoIYvuFpi7/ipLvFZylQCVZEODjn65r2a5juKjfxxNkz90U4WjoIieaYmyYziDE1i9fb3y4dmIjGa4k0HXYYlwRXz943S+5iLmAjSvjRZwL8PUDy3aVr2/9/z+imQEFHktIWwAa9sKpo240CbCL7CB0EcZhD4WGgS2jZ9thr9cWUFKWXuIlq5VXsMTLvBQWHktzj6iHg/DuwfcQmH8olHcQp6qCWtSM5bp9yzGQ4+KpqhnDRo4TYjQw+xEO+2aII9wWSeZlCkqmkGSFR6hiQRNvJdInoHjp/n9kFU+gRf7tKBhaw6iHguGkj2xrOEATYzBA5sQyp8O+OTGjqG3+65I4LIasvPbmsfRiUayf1RNovOBofP3udGkOmyAPWFGq4VLPmw8l0Nn5Z0K7KqUHI+e2rx+m47in6Hu5XfvfG2r9T4zl4pm0i/jZ3BYS4m/LuACgS0LhrwNow+b2DFDn7pzMecx/dLMml8OmcQ+XW6kdl0v5niW1bs38scoboZ1qkDc83tJ+rOpeaKd85O8xjMfq1163wFAJyQq8PrfVCUthXi2/qOH7teSgGo7oZt1kLptYjsZqk0ytvos1qE31hhxyiAU8x5YPp+BSXpGDv+U4+xVpxl2fWhshb9Q2wd7dWZ0mt4fq8R8="
+    "C:\\Users\\h1855\\source\\repos\\159Tionfox\\SteakGameEngine\\SteakGameEngine.vcxproj.filters": {
+      "before": "5VfbbptAEM1zpaq/gPy+BgM2ULAjrw1upEiJVFV9qRRhGJtNYaG7ELmq+lH9w64v8brGUsiFSmkt88BoObMz58zM7q93Z2fe+SpLlTtgnOR02Ol1tY4CNMpjQpfDTlUukN05H719412z/BaiUhHLKR92krIs3qsqjxLIQt7NSMRyni/KbpRnagx3kOYFMDXj84qksaprmtERMIriXZSQzVheFZtXYQhIWgJTLmiUVjEMO0HOMkUYgW+/UMTP+0TJtwouYqAlWRBgox+OY5iOrTmo38djZM6dGOHAcpAdTDHWdHvgY+Onp9Y+XG9iA+mvSqDrsPmoIp568Lpfch0yDputjBZhysFTDyzbVZ663f//Ec0MKLCwhLgBQVbPn9rij8YT7CBz4jsIY7+HfE3DhtYzTb/Xa0pQVBRu5EarlZvlkZu4MSzcPE5dIh4G3D1B30PE/EOhfIAwFhXUoGYMx+kbtoZsB09FzWgmsm0fo4HeD7Df130c4KaUJG4iSEkEJUnmEiq4oJG74vETqHjt+/+YVyyCBvk3g4llWEEPTaxxH5mGNUBjbTBA+tjQp1ZfH+tB0DT/siQOiyEpbt15WLohz9bP6glsvOJoPPXP6VIfNpN0kmeFGC5y3kzCTPS0rsjnwbzZNfXDXBw3FHWPdd/79wYJ7tMlodAS+NV8PZLbAi+Azi4/E9oSfha2Bs1LCL8uBa3wMtlvIqvd8UUyv5NVUhfVYbs7IaodkhRVDXonqjagL8mchex7tw3snVyfD13xMs/w+mAp0321l+uj8SXcPufSJD0cq+ol/KQ1bity82xH96ibcJqIt9YTY5hXyy/irHUj83qyQR6dok7IeYe9T229ATNIIeTQjrtTTMroCgZievJu0o3mZb1SH4xOou/jkyYpncMIW3BZT6mM8FhMf4XFtpw+sVoepPGxBXOK4+OYK1LXk7za1gtFYp4oW3Hx3N6/R78B",
+      "after": "5Vddb5swFO3ztP0HlHcHAiSBQVLFBLpKndpqqvYyaSJwE9yBzWxTZZr2v/c456MhDZXKuuWhG4IHrsyx7z3nfvDz9cmJf7oscu0OuCCMjjq9rtHRgCYsJXQx6lRyjpzO6fjNK/+Ks1tIpKaWUzHqZFKWb3VdJBkUsegWJOFMsLnsJqzQU7iDnJXA9ULMKpKnumkYVkfBaJp/LqE446wq16/KEJFcAtfOaZJXKYw6EeOFpowgNl9o6vJvKPlawXkKVJI5AT7+7rqW7TqGi/p9PEH2zE0RjoYucqIpxobpDEJs/fD1xoerQ6whw6UEunJbjCvi63uvuyVXMRewPsp4HucCfH3Pslnl65vz/x/enAEFHktIWxA07IVTR91oEmAX2UHoIozDHgoNA1tGz7bDXq8tQUlZeomXLJdewRIv81KYeyzNPaIeDsJ7hL6niPmHXHkHcaoyqEXOWK7btxwDOS6eqpwxbOQ4IUYDsx/hsG+GOMJtKcm8TJGSKUqywiNUcUETbynSZ1Dx0s//gVU8gRbxt6NgaA2jHgqGkz6yreEATYzBAJkTy5wO++bEjKK28a9TYj8ZsvLWm8XSi0WxepbPYOMFe+PrD7tLs9kEecCKUjWXut8EcaFqWlfFc6/fbIv6fiwOC4q+w7qv/TtDDR7SBaFwJPDL2aolHwu8BHp28ZHQI+EX8dGghYT4y0LRCn8n+m1ktR1faua3ssqaotovd4+IaotUi6oBvRXVMaAvyIzH/Fv3GNhbuf4x9LV8z5I60Jc7of4u8hroPs4HqIcaej52C/VUQrICrybl2q0UZtXikxp3PpccVIkX3aybzGRTTgeDTFNRNfq9r0FtqjfkkEMs4BhbPh2Ca3lD9jg9jH5Fmn7X/wkNl9doa2cf7qzm981vzPgX"
     },
-    "C:\\Users\\h1855\\source\\repos\\SteakGameEngine\\SteakGameEngine.vcxproj.user": {
+    "C:\\Users\\h1855\\source\\repos\\159Tionfox\\SteakGameEngine\\SteakGameEngine.vcxproj.user": {
       "before": "tZE9a8MwEIbTtdD/IETAyVDL/aCUYiVDCl06JG3obstnW0XWGekUUsgf7r+o7OItYzvee8f7PHDfF7NZvj52hh3AeY1W8ps04wyswkrbRvJA9fUjX6+uLvOtw09QxPaIxn9M95vgHFjiLLZYL3lL1D8J4VULXeHTTiuHHmtKFXaiggMY7MGJzpdBm0rcZtkdj+2MDf1xQ18vDkPPxLnwtSjBSL6jdyCKfp6zDdpK06iezBdxqnUTXDEky9N8sTUF1ei6ZSJl8gxlaE7Hh/vkFxmhO9pjUO3EHqExFufyXExno+I/CL6BgcLDXyqO0sPfVj8=",
       "after": "tZHNSsNAFIXrVvAdhqGQdmEm/iAimXRRwY2LVov7ZHKTjMzkhpk7pUJf1XdxEulGXOrynns454PzeTab5auDNWwPzmvsJb9KM86gV1jrvpU8UHN5z1fFxXm+cfgOitgO0fi3k38dnIOeOIspvZe8IxoehPCqA1v61Grl0GNDqUIratiDwQGcsL4K2tTiOstueExnbMyPH/p4chgGJn4Tn8sKjORbegWiyOc5W2Nfa5rQk/kiXo1ugytHZXmcLzampAadXSZSJo9QhfZ4uLtNvitj6ZZ2GFR36i5y8VOZ2MTJMMH9A9oLGCg9/A1cPuKOWxVf"
     }
@@ -25,7 +25,7 @@
       <Span TextDecorations="Underline">Project Format Conversion</Span>
     </Paragraph>
     <Paragraph Margin="12,8" FontSize="18">
-      <Span>Report generated on 2024-08-23 21:58:40</Span>
+      <Span>Report generated on 2024-09-01 20:06:11</Span>
     </Paragraph>
   </Section>
   <Section>
@@ -33,49 +33,49 @@
       <Span>Files</Span>
     </Paragraph>
     <Paragraph Margin="24,12,0,0">
-      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
       <LineBreak />
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj?before">[Before]</Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj?after">[After]</Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj?diff&amp;before&amp;after">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj?diff&amp;before&amp;after">
                         [Diff before/after]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj?diff&amp;before&amp;current">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj?diff&amp;before&amp;current">
                         [Diff before/current]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj?diff&amp;after&amp;current">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj?diff&amp;after&amp;current">
                         [Diff after/current]
                     </Hyperlink>
       <LineBreak />
     </Paragraph>
     <Paragraph Margin="24,12,0,0">
-      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters]]></Span>
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters]]></Span>
       <LineBreak />
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters?before">[Before]</Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters?after">[After]</Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters?diff&amp;before&amp;after">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters?diff&amp;before&amp;after">
                         [Diff before/after]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters?diff&amp;before&amp;current">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters?diff&amp;before&amp;current">
                         [Diff before/current]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters?diff&amp;after&amp;current">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters?diff&amp;after&amp;current">
                         [Diff after/current]
                     </Hyperlink>
       <LineBreak />
     </Paragraph>
     <Paragraph Margin="24,12,0,0">
-      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.user]]></Span>
+      <Span FontFamily="Consolas" FontSize="14" Background="WhiteSmoke"><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.user]]></Span>
       <LineBreak />
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.user?before">[Before]</Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.user?after">[After]</Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.user?diff&amp;before&amp;after">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.user?before">[Before]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.user?after">[After]</Hyperlink>
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.user?diff&amp;before&amp;after">
                         [Diff before/after]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.user?diff&amp;before&amp;current">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.user?diff&amp;before&amp;current">
                         [Diff before/current]
                     </Hyperlink>
-      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.user?diff&amp;after&amp;current">
+      <Hyperlink NavigateUri="file://C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.user?diff&amp;after&amp;current">
                         [Diff after/current]
                     </Hyperlink>
       <LineBreak />
@@ -97,7 +97,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -179,12 +179,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o release\moc_OpenGLWin.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o release\moc_OpenGLWin.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o release\moc_OpenGLWin.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o release\moc_OpenGLWin.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -206,12 +206,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o debug\moc_OpenGLWin.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o debug\moc_OpenGLWin.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o debug\moc_OpenGLWin.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o debug\moc_OpenGLWin.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -233,12 +233,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o release\moc_steakgameengine.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Release|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o release\moc_steakgameengine.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o release\moc_steakgameengine.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Release|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/release/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o release\moc_steakgameengine.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -260,12 +260,12 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o debug\moc_steakgameengine.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightCoral"><![CDATA['=='Debug|x64'">C:\Qt\6.8.0\msvc2022_64\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[-IC:/Qt/6.8.0/msvc2022_64/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o debug\moc_steakgameengine.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o debug\moc_steakgameengine.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)]]></Span><Span Background="LightGreen"><![CDATA['=='Debug|x64'">$(QTDIR)\bin\moc]]></Span><Span><![CDATA[.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/debug/moc_predefs.h ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGLWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtOpenGL]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtWidgets]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtGui]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[-I$(QTDIR)/include/QtCore]]></Span><Span><![CDATA[ -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o debug\moc_steakgameengine.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -391,7 +391,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -401,7 +401,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/SteakGameEngine/release/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o release\moc_OpenGLWin.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/release/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o release\moc_OpenGLWin.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -416,7 +416,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/SteakGameEngine/debug/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o debug\moc_OpenGLWin.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/debug/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" OpenGLWin.h -o debug\moc_OpenGLWin.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -431,7 +431,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/SteakGameEngine/release/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o release\moc_steakgameengine.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DNDEBUG -DQT_NO_DEBUG -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/release/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o release\moc_steakgameengine.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -446,7 +446,7 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/SteakGameEngine/debug/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o debug\moc_steakgameengine.cpp</Command>]]></Span>
+              <Span><![CDATA[      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(QTDIR)\bin\moc.exe  -DUNICODE -D_UNICODE -DWIN32 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -DWIN64 -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_CORE_LIB --compiler-flavor=msvc --include]]></Span><Span Background="LightCoral"><![CDATA[ C:/Users/h1855/source/repos/159Tionfox/SteakGameEngine/debug/moc_predefs]]></Span><Span><![CDATA[.h -I$(QTDIR)/mkspecs/win32-msvc]]></Span><Span Background="LightCoral"><![CDATA[ -IC:/Users/h1855/source/repos/159Tionfox/SteakGameEngine]]></Span><Span><![CDATA[ ]]></Span><Span><![CDATA[-I$(QTDIR)/include -I$(QTDIR)/include/QtOpenGLWidgets -I$(QTDIR)/include/QtOpenGL -I$(QTDIR)/include/QtWidgets -I$(QTDIR)/include/QtGui -I$(QTDIR)/include/QtCore -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include" -I"C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include" -I"C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\um" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\shared" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\winrt" -I"C:\Program Files (x86)\Windows Kits\10\\include\10.0.22621.0\\cppwinrt" -I"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um" steakgameengine.h -o debug\moc_steakgameengine.cpp</Command>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -469,7 +469,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -867,11 +867,13 @@
         <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span Background="LightCoral"><![CDATA[      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">OpenGLWin.h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
+              <Span><![CDATA[      ]]></Span><Span Background="LightCoral"><![CDATA[<AdditionalInputs]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightCoral"><![CDATA[Condition="'$(Configuration)|$(Platform)'=='Release|x64'">OpenGLWin]]></Span><Span><![CDATA[.]]></Span><Span Background="LightCoral"><![CDATA[h;release\moc_predefs.h;$(QTDIR)\bin\moc.exe;%(AdditionalInputs)</AdditionalInputs>]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ ]]></Span><Span Background="LightGreen"><![CDATA[Include="steakgameengine]]></Span><Span><![CDATA[.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
+            </Paragraph>
           </TableCell>
         </TableRow>
         <TableRow>
@@ -955,18 +957,13 @@
           </TableCell>
         </TableRow>
         <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="steakgameengine.]]></Span><Span Background="LightCoral"><![CDATA[h">]]></Span>
+              <Span Background="LightCoral"><![CDATA[    <CustomBuild Include="steakgameengine.h">]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
-            <Paragraph FontFamily="Consolas" Margin="4, 0">
-              <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[<QtMoc]]></Span><Span><![CDATA[ Include="steakgameengine.]]></Span><Span Background="LightGreen"><![CDATA[h" />]]></Span>
-            </Paragraph>
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
           </TableCell>
         </TableRow>
         <TableRow>
@@ -1053,6 +1050,16 @@
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span Background="LightCoral"><![CDATA[    </CustomBuild>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_steakgameengine.h" />]]></Span>
             </Paragraph>
           </TableCell>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
@@ -1404,7 +1411,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj.filters]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj.filters]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1439,9 +1446,6 @@
           </TableCell>
         </TableRow>
         <TableRow>
-          <TableCell ColumnSpan="2" Background="WhiteSmoke" BorderBrush="Gray" BorderThickness="0.5" />
-        </TableRow>
-        <TableRow>
           <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[    ]]></Span><Span Background="LightCoral"><![CDATA[<CustomBuild]]></Span><Span><![CDATA[ Include="steakgameengine.h">]]></Span>
@@ -1466,6 +1470,36 @@
             <Paragraph FontFamily="Consolas" Margin="4, 0">
               <Span><![CDATA[    ]]></Span><Span Background="LightGreen"><![CDATA[</QtMoc>]]></Span>
             </Paragraph>
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    <ClInclude Include="ui_steakgameengine.h">]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[      <Filter>Header Files</Filter>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
+          </TableCell>
+        </TableRow>
+        <TableRow>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0">
+              <Span Background="LightCoral"><![CDATA[    </ClInclude>]]></Span>
+            </Paragraph>
+          </TableCell>
+          <TableCell BorderThickness="0, 0, 0.5, 0" BorderBrush="Gray">
+            <Paragraph FontFamily="Consolas" Margin="4, 0" />
           </TableCell>
         </TableRow>
         <TableRow>
@@ -1668,7 +1702,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1712,7 +1746,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1745,7 +1779,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1776,7 +1810,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1807,7 +1841,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1848,7 +1882,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1899,7 +1933,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1943,7 +1977,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -1974,7 +2008,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2059,7 +2093,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2107,7 +2141,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2155,7 +2189,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2203,7 +2237,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2251,7 +2285,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2299,7 +2333,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2343,7 +2377,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2453,7 +2487,7 @@
         <TableRow Background="Orange">
           <TableCell ColumnSpan="2" BorderThickness="0.5" BorderBrush="Gray">
             <Paragraph Margin="10,5" FontWeight="Bold">
-              <Span><![CDATA[C:\Users\h1855\source\repos\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
+              <Span><![CDATA[C:\Users\h1855\source\repos\159Tionfox\SteakGameEngine\SteakGameEngine.vcxproj]]></Span>
             </Paragraph>
           </TableCell>
         </TableRow>
@@ -2648,4 +2682,4 @@
     <Paragraph />
   </Section>
 </FlowDocument>
-<!--D/TpIz9pqTov2XeHeWlKB/BWGGmwnPivia8e1WbdC3c=-->
+<!--1wLJErHtK6BKzgyVjwCje/atogjePm4M9KYDUQpUuxc=-->

@@ -272,37 +272,39 @@ void Engine::ShaderProgram(const char* modle, const char* textrue)
 	glGenVertexArrays(1, &VAO);
 	glBindVertexArray(VAO);
 
-	mesh = LoadObjModel(modle, true);
+    if (LoadObjModel(modle, true) == nullptr) {
+        Log(LogLevel::ERR, "Model Init Error!");
+    }
+    else
+    {
+        mesh = LoadObjModel(modle, true);
 
-	if (!mesh) {
-		Log(LogLevel::ERR, "Íø¸ñÌå¼ÓÔØÊ§°Ü£¡");
-	}
+        VBO = CreateGLBuffer(GL_ARRAY_BUFFER, GL_STATIC_DRAW, mesh->vertexCount * sizeof(Engine::Vertex), mesh->vertices);
+        glBindBuffer(GL_ARRAY_BUFFER, VBO);
 
-	VBO = CreateGLBuffer(GL_ARRAY_BUFFER, GL_STATIC_DRAW, mesh->vertexCount * sizeof(Engine::Vertex), mesh->vertices);
-	glBindBuffer(GL_ARRAY_BUFFER, VBO);
+        GLint PosLocation = glGetAttribLocation(shaderprogram, "Pos");
+        GLint ColorLocation = glGetAttribLocation(shaderprogram, "Color");
+        GLint TexCoordLocation = glGetAttribLocation(shaderprogram, "TexCoord");
 
-	GLint PosLocation = glGetAttribLocation(shaderprogram, "Pos");
-	GLint ColorLocation = glGetAttribLocation(shaderprogram, "Color");
-	GLint TexCoordLocation = glGetAttribLocation(shaderprogram, "TexCoord");
+        smp = glGetUniformLocation(shaderprogram, "smp");
 
-	smp = glGetUniformLocation(shaderprogram, "smp");
+        modelLocation = glGetUniformLocation(shaderprogram, "ModelMat");
+        viewlLocation = glGetUniformLocation(shaderprogram, "ViewMat");
+        projlLocation = glGetUniformLocation(shaderprogram, "ProjMat");
 
-	modelLocation = glGetUniformLocation(shaderprogram, "ModelMat");
-	viewlLocation = glGetUniformLocation(shaderprogram, "ViewMat");
-	projlLocation = glGetUniformLocation(shaderprogram, "ProjMat");
+        glEnableVertexAttribArray(PosLocation);
+        glVertexAttribPointer(PosLocation, 3, GL_FLOAT, GL_FALSE, sizeof(float) * 8, (void*)(sizeof(float) * 0));
+        glEnableVertexAttribArray(ColorLocation);
+        glVertexAttribPointer(ColorLocation, 3, GL_FLOAT, GL_FALSE, sizeof(float) * 8, (void*)(sizeof(float) * 3));
+        glEnableVertexAttribArray(TexCoordLocation);
+        glVertexAttribPointer(TexCoordLocation, 2, GL_FLOAT, GL_FALSE, sizeof(float) * 8, (void*)(sizeof(float) * 6));
 
-	glEnableVertexAttribArray(PosLocation);
-	glVertexAttribPointer(PosLocation, 3, GL_FLOAT, GL_FALSE, sizeof(float) * 8, (void*)(sizeof(float) * 0));
-	glEnableVertexAttribArray(ColorLocation);
-	glVertexAttribPointer(ColorLocation, 3, GL_FLOAT, GL_FALSE, sizeof(float) * 8, (void*)(sizeof(float) * 3));
-	glEnableVertexAttribArray(TexCoordLocation);
-	glVertexAttribPointer(TexCoordLocation, 2, GL_FLOAT, GL_FALSE, sizeof(float) * 8, (void*)(sizeof(float) * 6));
+        glBindBuffer(GL_ARRAY_BUFFER, 0);
+        glBindVertexArray(0);
 
-	glBindBuffer(GL_ARRAY_BUFFER, 0);
-	glBindVertexArray(0);
-
-	EBO = CreateGLBuffer(GL_ELEMENT_ARRAY_BUFFER, GL_STATIC_DRAW, mesh->indexCount * sizeof(uint32_t), mesh->indices);
-	tex = CreateGLTexture(GL_TEXTURE_2D, GL_RGBA, GL_BGRA, QImage(textrue));
+        EBO = CreateGLBuffer(GL_ELEMENT_ARRAY_BUFFER, GL_STATIC_DRAW, mesh->indexCount * sizeof(uint32_t), mesh->indices);
+        tex = CreateGLTexture(GL_TEXTURE_2D, GL_RGBA, GL_BGRA, QImage(textrue));
+    }
 }
 
 void Engine::GLSetting()
@@ -336,5 +338,10 @@ void Engine::GLPaint(Camera* camera, int glwidth, int glheight)
 
 	glBindVertexArray(VAO);
 	glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
-	glDrawElements(GL_TRIANGLES, mesh->indexCount, GL_UNSIGNED_INT, NULL);
+
+    if (mesh != nullptr) {
+        glDrawElements(GL_TRIANGLES, mesh->indexCount, GL_UNSIGNED_INT, NULL);
+    }
+
+	
 }
